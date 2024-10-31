@@ -78,15 +78,15 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
 
-        'NAME': 'sca',
+        'NAME': 'sga',
 
         'USER': 'postgres',
 
-        'PASSWORD': '789123',
+        'PASSWORD': '110604',
 
         'HOST': 'localhost',
 
-        'PORT': '5433',
+        'PORT': '5432',
     }
 }
 
